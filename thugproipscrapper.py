@@ -1,4 +1,4 @@
-import urllib
+import urllib.request
 from bs4 import BeautifulSoup
 
 url = 'http://x.bobzent.info/osstatusget.php?game=thugpro'
